@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSContactsUsageDescription</key>
+	<string>&quot;Allow Access to Contacts&quot;</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>&quot;Allow Access to Location&quot;</string>
+	<key>NSCameraUsageDescription</key>
+	<string>&quot;Allow Access to Camera&quot;</string>
+</dict>
+</plist>
